@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LADM_U3_Practica2_FranciscoMendez_FirebaseRestaurante</string>
+
+    <array name="clavebusqueda">
+        <item>Nombre cliente</item>
+        <item>Celular</item>
+        <item>Domicilio</item>
+    </array>
+</resources>
